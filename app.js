@@ -1,6 +1,6 @@
 //instalaciones 
 //npm i express dotenv 
-//npm i cors  /// para delimitar las url es un midelware
+//npm i cors  /// para delimitar las url es un midelwaregit 
 require('dotenv').config();
 
 const Server = require('./models/server');
